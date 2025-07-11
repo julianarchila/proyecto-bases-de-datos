@@ -2,11 +2,7 @@
 Universidad Nacional de Colombia – 2025
 
 ---
-
-## 🎯 Objetivo
-
-Diseñar una base de datos para un sistema de manejo de inventoria y ventas para una tienda de ropa en línea que permita gestionar productos, variantes, inventario, ventas, proveedores, compras y seguimiento de pedidos. El sistema incluye una interfaz web básica conectada a la base de datos.
-
+[Documento](https://docs.google.com/document/d/1pqFbGxinXTQlFdL65Pq-G0tEvYHOvV4_Q2GgWfsFOQI/edit?usp=sharing)
 ---
 
 ## 📦 Entidades y Atributos
